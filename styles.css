@@ -1,0 +1,74 @@
+/*********************************Body style**********************************/
+  body {
+  margin: 0 auto;
+    padding: 0 100px 0 100px;
+    background-color: #f0fAff;
+}
+
+
+/*********************************Horizontal Rule style**********************************/
+  hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color:#7F7C82;
+    border-width: 8px;
+    width: 10%;
+   }
+
+
+   /*********************************Paragraph style**********************************/
+   p{
+     color:#1E3163;
+     font-size: 25px;
+       text-align: left;
+   }
+
+   /*********************************H1 style**********************************/
+h1{
+color:#1E3163;
+text-align: left;
+}
+
+
+/*********************************H3 style**********************************/
+h3{
+color:darkred;
+font-size: 25px;
+}
+
+
+/*********************************Table style**********************************/
+
+
+.tablehead{
+  font-size: 25px;
+  font-family: serif;
+  color: darkred;
+}
+
+tr{
+text-align:center;
+color:#1E3163;
+font-size: 20px;
+
+}
+
+.work{
+background-color:#f0fAff;
+width: 100%;
+}
+
+
+/********************************* Unordered List style**********************************/
+.education{
+  line-height: 30px;
+  color: #1E3163;
+  font-size: 20px;
+}
+
+/********************************* Ordered List style**********************************/
+.hobbies{
+  line-height: 30px;
+  color: #1E3163;
+  font-size: 20px;
+}
